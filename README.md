@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kushalkeshari97-sudo/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalkeshari97-sudo/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kushalkeshari97-sudo/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/kushalkeshari97-sudo/DSA/tree/master/2000-reverse-prefix-of-word) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
