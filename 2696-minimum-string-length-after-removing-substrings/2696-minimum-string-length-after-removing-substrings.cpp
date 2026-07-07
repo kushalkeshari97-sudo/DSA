@@ -1,15 +1,15 @@
 class Solution {
 public:
     int minLength(string s) {
-        stack<char> st;
+        string st;
 
         for (char ch : s) {
             if (!st.empty() &&
-                ((st.top() == 'A' && ch == 'B') ||
-                 (st.top() == 'C' && ch == 'D'))) {
-                st.pop();
+                ((st.back() == 'A' && ch == 'B') ||
+                 (st.back() == 'C' && ch == 'D'))) {
+                st.pop_back();
             } else {
-                st.push(ch);
+                st.push_back(ch);
             }
         }
 
