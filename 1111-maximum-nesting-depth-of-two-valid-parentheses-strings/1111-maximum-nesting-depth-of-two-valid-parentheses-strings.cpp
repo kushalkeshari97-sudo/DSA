@@ -6,11 +6,9 @@ public:
 
         for (char ch : seq) {
             if (ch == '(') {
-                depth++;
-                ans.push_back(depth % 2);
+                ans.push_back(++depth % 2);
             } else {
-                ans.push_back(depth % 2);
-                depth--;
+                ans.push_back(depth-- % 2);
             }
         }
 
