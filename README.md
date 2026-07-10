@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0844-backspace-string-compare) |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0227-basic-calculator-ii) |
 | [0844-backspace-string-compare](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kushalkeshari97-sudo/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kushalkeshari97-sudo/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
