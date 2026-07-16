@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kushalkeshari97-sudo/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushalkeshari97-sudo/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Array
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0622-design-circular-queue) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kushalkeshari97-sudo/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kushalkeshari97-sudo/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kushalkeshari97-sudo/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/kushalkeshari97-sudo/DSA/tree/master/2351-first-letter-to-appear-twice) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/kushalkeshari97-sudo/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
